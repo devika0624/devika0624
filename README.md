@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/devika-sugathan-827553245"><img src="https://img.shields.io/badge/LINKEDIN-6F3540?style=for-the-badge&logo=linkedin&logoColor=F5E6E6&labelColor=3A171D" height="36"></a>&nbsp;
+</a>&nbsp;
 <a href="https://github.com/devika0624"><img src="https://img.shields.io/badge/GITHUB-7F4650?style=for-the-badge&logo=github&logoColor=F5E6E6&labelColor=2B1015" height="36"></a>&nbsp;
 <a href="mailto:devikasugathan24@gmail.com"><img src="https://img.shields.io/badge/GMAIL-955B61?style=for-the-badge&logo=gmail&logoColor=F5E6E6&labelColor=4A2028" height="36"></a>&nbsp;
 <a href="assets/Devika_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-C58A8C?style=for-the-badge&logo=adobeacrobatreader&logoColor=3A171D&labelColor=E3C7C7" height="36"></a>
@@ -61,6 +61,7 @@
 <br>
 
 
+
 <!-- ========================================================= -->
 <!--                    STATISTICS                             -->
 <!-- ========================================================= -->
@@ -71,28 +72,44 @@
 
 <br>
 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top" style="border: none;">
+
+<img
+src="https://github-stats-extended.vercel.app/api?username=devika0624&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=6F3540&border_radius=10&bg_color=100B0D&title_color=D7A5A7&icon_color=B9787B&text_color=EBDDDD"
+width="96%"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="top" style="border: none;">
+
+<img
+src="https://streak-stats.demolab.com?user=devika0624&hide_border=false&border=6F3540&border_radius=10&background=100B0D&stroke=6F3540&ring=B9787B&fire=C98B8D&currStreakLabel=D7A5A7&sideLabels=EBDDDD&dates=BFA5A6&currStreakNum=F1E4E4&sideNums=F1E4E4"
+width="96%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=devika0624&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=6F3540&border_radius=10&bg_color=100B0D&title_color=D7A5A7&icon_color=B9787B&text_color=EBDDDD"
-width="48%"
-/>
-
-&nbsp;
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=devika0624&hide_border=false&border=6F3540&border_radius=10&background=100B0D&stroke=6F3540&ring=B9787B&fire=C98B8D&currStreakLabel=D7A5A7&sideLabels=EBDDDD&dates=BFA5A6&currStreakNum=F1E4E4&sideNums=F1E4E4"
-width="48%"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=devika0624&bg_color=100B0D&color=EBDDDD&line=B9787B&point=F1E4E4&area=true&area_color=6F3540&hide_border=false&border_color=6F3540&custom_title=Devika%20Sugathan's%20Contribution%20Graph"
+src="https://github-readme-activity-graph-zeta-ten.vercel.app/graph?username=devika0624&bg_color=100B0D&color=EBDDDD&line=B9787B&point=F1E4E4&area=true&area_color=6F3540&hide_border=false&border_color=6F3540&custom_title=Devika%20Sugathan%27s%20Contribution%20Graph"
 width="96%"
 />
 
 </div>
+
+<br>
+
+<hr>
 
 <br>
 
