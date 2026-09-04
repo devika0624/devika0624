@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/hero github.png" width="100%" />
+<img src="assets/devika-github-hero-typing.gif" width="100%" />
 
 </div>
 
@@ -17,6 +17,9 @@
 <div align="center">
 
 </a>&nbsp;
+<a href="https://www.linkedin.com/in/devika-sugathan-827553245">
+<img src="https://img.shields.io/badge/LINKEDIN-7F4650?style=for-the-badge&logo=linkedin&logoColor=F5E6E6&labelColor=2B1015" height="36">
+</a>
 <a href="https://github.com/devika0624"><img src="https://img.shields.io/badge/GITHUB-7F4650?style=for-the-badge&logo=github&logoColor=F5E6E6&labelColor=2B1015" height="36"></a>&nbsp;
 <a href="mailto:devikasugathan24@gmail.com"><img src="https://img.shields.io/badge/GMAIL-955B61?style=for-the-badge&logo=gmail&logoColor=F5E6E6&labelColor=4A2028" height="36"></a>&nbsp;
 <a href="assets/Devika_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-C58A8C?style=for-the-badge&logo=adobeacrobatreader&logoColor=3A171D&labelColor=E3C7C7" height="36"></a>
@@ -60,8 +63,6 @@
 
 <br>
 
-
-
 <!-- ========================================================= -->
 <!--                    STATISTICS                             -->
 <!-- ========================================================= -->
@@ -71,51 +72,29 @@
 </h2>
 
 <br>
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-
-<td width="50%" align="center" valign="top" style="border: none;">
-
-<img
-src="https://github-stats-extended.vercel.app/api?username=devika0624&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=6F3540&border_radius=10&bg_color=100B0D&title_color=D7A5A7&icon_color=B9787B&text_color=EBDDDD"
-width="96%"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="top" style="border: none;">
-
-<img
-src="https://streak-stats.demolab.com?user=devika0624&hide_border=false&border=6F3540&border_radius=10&background=100B0D&stroke=6F3540&ring=B9787B&fire=C98B8D&currStreakLabel=D7A5A7&sideLabels=EBDDDD&dates=BFA5A6&currStreakNum=F1E4E4&sideNums=F1E4E4"
-width="96%"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph-zeta-ten.vercel.app/graph?username=devika0624&bg_color=100B0D&color=EBDDDD&line=B9787B&point=F1E4E4&area=true&area_color=6F3540&hide_border=false&border_color=6F3540&custom_title=Devika%20Sugathan%27s%20Contribution%20Graph"
-width="96%"
-/>
-
+<div>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=devika0624&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=6F3540&border_radius=10&bg_color=100B0D&title_color=D7A5A7&icon_color=B9787B&text_color=EBDDDD"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=devika0624&hide_border=false&border=6F3540&border_radius=10&background=100B0D&stroke=6F3540&ring=B9787B&fire=C98B8D&currStreakLabel=D7A5A7&sideLabels=EBDDDD&dates=BFA5A6&currStreakNum=F1E4E4&sideNums=F1E4E4"
+    width="48%"
+  />
 </div>
 
 <br>
 
-<hr>
+<img
+  src="https://github-readme-activity-graph-zeta-ten.vercel.app/graph?username=devika0624&bg_color=100B0D&color=EBDDDD&line=B9787B&point=F1E4E4&area=true&area_color=6F3540&hide_border=false&border_color=6F3540&custom_title=Devika%20Sugathan%27s%20Contribution%20Graph"
+  width="96%"
+/>
 
-<br>
-
-
+</div>
 <!-- ========================================================= -->
-<!--                       ABOUT ME                             -->
+<!--                     ABOUT ME                              -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -126,139 +105,29 @@ width="96%"
 
 <div align="center">
 
-<img src="assets/hero.png" width="260" alt="Devika"/>
+<img
+src="assets/devika cartoon.png"
+width="235"
+align="left"
+/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-Hello! I'm <strong>Devika Sugathan</strong>, a Computer Science Engineering student specializing in <strong>Artificial Intelligence & Machine Learning</strong>.
-
-<br><br>
-
-I'm passionate about <strong>Data Analytics, Business Intelligence, Machine Learning and AI</strong>, with a particular interest in transforming raw data into meaningful insights and useful solutions.
-
-<br><br>
-
-I enjoy working with <strong>Python, SQL, Pandas and Power BI</strong> to explore datasets, identify patterns, build dashboards and communicate insights clearly.
-
-<br><br>
-
-Currently, I'm strengthening my foundations in <strong>statistics, machine learning, data visualization and intelligent systems</strong> while building practical projects.
-
-</div>
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">
-<i>Featured Projects</i>
-</h2>
-
-<br>
-
-<div align="center">
-
-<h2>01</h2>
-
-<h3>Mumbai MMR Restaurant Market Intelligence</h3>
-
-<p>
-Python · SQL · Power BI
+<p align="left">
+Hello! I'm <b>Devika Sugathan</b>, a Computer Science Engineering student specializing in <b>Artificial Intelligence & Machine Learning</b>.
 </p>
 
-<p>
-Restaurant market analysis across Mumbai, Navi Mumbai and Thane using data analysis and interactive visualization.
+<p align="left">
+I'm passionate about <b>Data Analytics, Business Intelligence, Machine Learning and AI</b>, with a particular interest in transforming raw data into meaningful insights and useful solutions.
 </p>
 
-<a href="https://github.com/devika0624/mumbai-mmr-restaurant-market-intelligence">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6F3540?style=for-the-badge&logo=github&logoColor=F8EEEE&labelColor=3A171D" height="44">
-</a>
-
-<br><br>
-
-<h2>02</h2>
-
-<h3>F20 Analytics Challenge</h3>
-
-<p>
-Power BI · Data Analysis · Visualization
+<p align="left">
+I enjoy working with <b>Python, SQL, Pandas and Power BI</b> to explore datasets, identify patterns, build dashboards and communicate insights clearly.
 </p>
 
-<p>
-Interactive Power BI dashboards and analytical solutions focused on extracting meaningful business insights.
+<p align="left">
+Currently, I'm strengthening my foundations in <b>statistics, machine learning, data visualization and intelligent systems</b> while building practical projects.
 </p>
 
-<a href="https://github.com/devika0624/F20-Analytics-Challenge">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F4650?style=for-the-badge&logo=github&logoColor=F8EEEE&labelColor=3A171D" height="44">
-</a>
-
-<br><br>
-
-<h2>03</h2>
-
-<h3>CodeDNA — AI Coding Mentor</h3>
-
-<p>
-AI · Python · Machine Learning
-</p>
-
-<p>
-An AI-focused coding mentor designed to support programming learning and problem solving.
-</p>
-
-<a href="https://github.com/devika0624/codedna--AI-Coding-Mentor">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-955B61?style=for-the-badge&logo=github&logoColor=F8EEEE&labelColor=3A171D" height="44">
-</a>
-
-</div>
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--                DATA ANALYTICS WORKFLOW                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">
-<i>Data Analytics Workflow</i>
-</h2>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DATA%20COLLECTION-3A171D?style=for-the-badge&logoColor=F8EEEE" height="42">
-
-&nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/DATA%20CLEANING-6F3540?style=for-the-badge&logoColor=F8EEEE" height="42">
-
-&nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/EDA-7F4650?style=for-the-badge&logoColor=F8EEEE" height="42">
-
-&nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/ANALYSIS-955B61?style=for-the-badge&logoColor=F8EEEE" height="42">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/VISUALIZATION-6F3540?style=for-the-badge&logoColor=F8EEEE" height="42">
-
-&nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/INSIGHTS-7F4650?style=for-the-badge&logoColor=F8EEEE" height="42">
-
-&nbsp;→&nbsp;
-
-<img src="https://img.shields.io/badge/DECISIONS-3A171D?style=for-the-badge&logoColor=F8EEEE" height="42">
+<br clear="left">
 
 </div>
 
